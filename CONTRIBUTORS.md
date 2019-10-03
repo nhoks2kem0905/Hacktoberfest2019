@@ -14,4 +14,4 @@
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
 
-### Hello - from VietNam!
+### Say Hello - from VietNam!
